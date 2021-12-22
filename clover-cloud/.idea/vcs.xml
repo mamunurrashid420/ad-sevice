@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/abc/locust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ad-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cart-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/checkout-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/currency-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/email-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/locust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/product-catalog-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recommendation-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shipping-service" vcs="Git" />
+  </component>
+</project>
